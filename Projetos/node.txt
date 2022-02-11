@@ -1,0 +1,5 @@
+sempre que iniciar o novo projeto terei "npm init -y"
+
+ctrol " para abrir o terminar e por o npm init -y
+
+dentro do script por "start": "nome nomedoarquivo.js"

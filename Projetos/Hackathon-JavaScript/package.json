@@ -1,0 +1,12 @@
+{
+  "name": "Projetos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "teste.js",
+  "scripts": {
+    "start": "node teste.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

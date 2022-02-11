@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>(Type a title for your page here)</title>
+<script type="text/javascript"> 
+var today = new Date()
+var curHr = today.getHours()
+
+if (curHr < 12) {
+  console.log('good morning')
+} else if (curHr < 18) {
+  console.log('good afternoon')
+} else {
+  console.log('good evening')
+}
+</script>
+</head>
+
+<body onload=display_ct();>
+<span id='ct' ></span>
+
+</body>
+</html>
